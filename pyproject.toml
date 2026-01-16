@@ -6,5 +6,14 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "google-genai>=1.57.0",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
     "torch>=2.9.1",
+    "librosa>=0.10.0",
+    "scipy>=1.14.0",
+    "matplotlib>=3.9.0",
+    "numpy>=1.26.0",
+    "joblib>=1.5.3",
+    "asyncio>=4.0.0",
 ]
+
